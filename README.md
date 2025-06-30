@@ -15,6 +15,14 @@ This repository implements real-time object detection on video files using [Ultr
 
 ---
 
+## Example Output
+### Without SAHI
+![Example](demo1.png)
+### With SAHI Implementation
+![Example](demo2.png)
+
+## Demo
+[Watch the demo on YouTube](https://youtu.be/qZq9K0Fo5Ns)
 ## Requirements
 
 - Python 3.8+
