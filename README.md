@@ -38,9 +38,9 @@ This repository implements real-time object detection on video files using [Ultr
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-pip install -r requirements.txt
+git clone https://github.com/TLILIFIRAS/Improve-Small-Object-Detection-Accuracy-with-Sliced-Inference.git
+cd Improve-Small-Object-Detection-Accuracy-with-Sliced-Inference
+
 ```
 
 > **Note:**  
