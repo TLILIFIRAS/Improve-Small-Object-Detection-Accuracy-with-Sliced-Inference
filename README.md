@@ -75,9 +75,9 @@ python your_detection_script.py
 
 ## Example Output
 ### Without SAHI
-![Example output frame](Screenshot 2025-06-30 165551.png)
+![Example](demo1.png)
 ### With SAHI Implementation
-![Example output frame](Screenshot 2025-06-30 165754.png)
+![Example](demo2.png)
 
 ---
 
