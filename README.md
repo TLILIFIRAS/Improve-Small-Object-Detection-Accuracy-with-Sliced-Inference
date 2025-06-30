@@ -57,7 +57,7 @@ cd Improve-Small-Object-Detection-Accuracy-with-Sliced-Inference
 Edit the script or run the detection script directly after placing your input video (`crowd.mp4`) in the working directory.
 
 ```bash
-python your_detection_script.py
+python sahi_implementation.py
 ```
 
 ---
